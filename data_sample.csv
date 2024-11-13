@@ -1,11 +1,11 @@
-parcl_property_id,address,unit,city,zip_code,state_abbreviation,county,cbsa,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built,cbsa_parcl_id,county_parcl_id,city_parcl_id,zip_parcl_id,event_count,event_history_sale_flag,event_history_rental_flag,event_history_listing_flag,current_new_construction_flag,owner_occ,investor_owned,current_owner
-66607228,1050 HIDDEN POND LN,,Roswell City,30075.0,GA,Fulton County,"Atlanta-Sandy Springs-Alpharetta, GA",34.05388,-84.362253,SINGLE_FAMILY,3.0,2.0,1820.0,1996.0,2887280.0,5823604,5384094.0,5589598.0,12,1,1,0,0.0,no,yes,unknown
-156563247,495 GREEN SWAMP RD,,,31525.0,GA,Glynn County,"Brunswick, GA",31.285272,-81.553912,SINGLE_FAMILY,0.0,0.0,,2008.0,2899643.0,5824631,,5402526.0,1,1,0,0,0.0,no,yes,unknown
-124166381,3315 THAMES PL,,Augusta-Richmond County Consolidated Government (Balance),30815.0,GA,Richmond County,"Augusta-Richmond County, GA-SC",33.379539,-82.056468,SINGLE_FAMILY,4.0,3.0,2136.0,2005.0,2887286.0,5822237,5384287.0,5402647.0,1,1,0,0,0.0,no,no,unknown
-73763949,24346 GA HIGHWAY 3,,,31773.0,GA,Thomas County,"Thomasville, GA",30.944091,-84.030488,SINGLE_FAMILY,0.0,1.0,1548.0,1986.0,2900425.0,5822984,,5403301.0,0,0,0,0,,no,no,unknown
-89041524,6611 JOHNSON CIR,,,30542.0,GA,Hall County,"Gainesville, GA",34.169889,-83.973604,SINGLE_FAMILY,3.0,2.0,1118.0,2001.0,2899719.0,5823241,,5467662.0,0,0,0,0,,no,no,unknown
-187565989,147 15TH ST NE,APT 16D,Atlanta City,30309.0,GA,Fulton County,"Atlanta-Sandy Springs-Alpharetta, GA",33.7881782,-84.3822422,CONDO,2.0,2.0,1980.0,1972.0,2887280.0,5823604,5384169.0,5402525.0,16,1,0,1,0.0,unknown,unknown,unknown
-452348689,305 SAINT IVES XING,# 1425,Stockbridge City,30281.0,GA,Henry County,"Atlanta-Sandy Springs-Alpharetta, GA",33.51188,-84.24123,CONDO,2.0,2.0,,,2887280.0,5820830,5384086.0,5403091.0,3,0,1,0,0.0,unknown,unknown,unknown
-89800082,165 APRILS WAY,,Fairburn City,30291.0,GA,Fulton County,"Atlanta-Sandy Springs-Alpharetta, GA",33.567092,-84.56648,SINGLE_FAMILY,3.0,3.0,1420.0,2004.0,2887280.0,5823604,5384208.0,5402631.0,2,1,0,0,0.0,yes,no,unknown
-180711224,258 SAW MILL LN,,,30576.0,GA,Rabun County,,34.816279,-83.512714,SINGLE_FAMILY,2.0,2.0,784.0,1988.0,,5822393,,5467559.0,2,1,0,0,0.0,no,no,unknown
-179932718,101 RADFORD CIR SW,,,30060.0,GA,Cobb County,"Atlanta-Sandy Springs-Alpharetta, GA",33.874525,-84.555956,SINGLE_FAMILY,3.0,3.0,2307.0,1989.0,2887280.0,5822520,,5314386.0,1,1,0,0,0.0,no,no,unknown
+parcl_property_id,GEOID,address,city,county,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built,owner_occ,current_owner
+166192064,13057090102,881 HORNAGE RD,,Cherokee,34.334645,-84.46065,OTHER,2.0,1.0,,1945.0,no,unknown
+131702795,13247060204,2906 LOCH LOMOND DR,,Rockdale,33.632872,-84.060198,SINGLE_FAMILY,4.0,4.0,3798.0,1999.0,no,unknown
+452016921,13247060313,1589 SALEM DR,,Rockdale,33.605405,-83.972824,OTHER,3.0,2.5,1685.0,2024.0,unknown,unknown
+152409792,13067030255,4419 BLACK HILLS DR NW,,Cobb,34.060179,-84.607003,SINGLE_FAMILY,4.0,3.0,2069.0,2013.0,unknown,unknown
+139285236,13223120203,391 HARRIS OAKS,,Paulding,33.955792,-84.775591,SINGLE_FAMILY,3.0,2.0,1372.0,1986.0,yes,unknown
+156829062,13247060314,2616 COUNTRY TRCE SE,,Rockdale,33.617448,-83.979711,OTHER,3.0,2.0,1428.0,1986.0,no,unknown
+453229718,13139000102,5326 BUFFINGTON RD,,Hall,34.279084,-83.668423,OTHER,0.0,0.0,,,no,unknown
+122183459,13121009604,195 RUMSON RD NE,Atlanta City,Fulton,33.830499,-84.3811,OTHER,5.0,4.0,2832.0,1937.0,no,unknown
+105585769,13121010216,6900 ROSWELL RD,Sandy Springs City,Fulton,33.943101,-84.374342,TOWNHOUSE,2.0,2.5,1324.0,1971.0,yes,unknown
+152635455,13223120107,9025 DALLAS ACWORTH HWY,,Paulding,34.01427,-84.753117,OTHER,0.0,2.0,1860.0,1979.0,no,unknown
