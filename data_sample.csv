@@ -1,11 +1,11 @@
 parcl_property_id,address,unit,city,zip_code,state_abbreviation,county,cbsa,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built,cbsa_parcl_id,county_parcl_id,city_parcl_id,zip_parcl_id,event_count,event_history_sale_flag,event_history_rental_flag,event_history_listing_flag,current_new_construction_flag,owner_occ,investor_owned,current_owner
-180785756,176 SPRING BRANCH DR,,,30115.0,GA,Cherokee County,"Atlanta-Sandy Springs-Alpharetta, GA",34.215939,-84.446164,SINGLE_FAMILY,4.0,3.0,3094.0,1988.0,2887280.0,5822987,,5314877.0,0,0,0,0,,no,yes,unknown
-115761433,3440 WRIGHTSBORO RD,,Augusta-Richmond County Consolidated Government (Balance),30909.0,GA,Richmond County,"Augusta-Richmond County, GA-SC",33.466462,-82.078906,OTHER,0.0,0.0,2716.0,1978.0,2887286.0,5822237,5384287.0,5314065.0,2,1,0,0,0.0,no,no,unknown
-148537404,510 MOUNT ZION RD,,,31047.0,GA,Houston County,"Warner Robins, GA",32.535058,-83.654219,SINGLE_FAMILY,4.0,3.0,4628.0,1994.0,2900469.0,5824597,,5314426.0,6,1,0,1,0.0,no,no,unknown
-113888145,529 OVERO DR,,Mcdonough City,30253.0,GA,Henry County,"Atlanta-Sandy Springs-Alpharetta, GA",33.468845,-84.165915,SINGLE_FAMILY,4.0,3.0,2152.0,2019.0,2887280.0,5820830,5384085.0,5314470.0,3,1,0,0,0.0,no,yes,unknown
-199069368,2143 DEAN RD,,,30557.0,GA,Stephens County,"Toccoa, GA",34.567603,-83.151046,SINGLE_FAMILY,3.0,4.0,2656.0,2022.0,2900428.0,5822174,,5403043.0,1,1,0,0,1.0,no,no,unknown
-157638803,35 REBEL RIDGE RD,,,30512.0,GA,Union County,,34.753369,-83.916835,SINGLE_FAMILY,3.0,2.0,1344.0,1981.0,,5822667,,5403225.0,0,0,0,0,,no,no,unknown
-161471993,3011 TOBY CT,,,30252.0,GA,Henry County,"Atlanta-Sandy Springs-Alpharetta, GA",33.461601,-84.061389,SINGLE_FAMILY,4.0,4.0,3506.0,2001.0,2887280.0,5820830,,5314865.0,0,0,0,0,,no,no,unknown
-159255612,865 EARLHAM DR,,,30024.0,GA,Forsyth County,"Atlanta-Sandy Springs-Alpharetta, GA",34.123747,-84.13286,OTHER,5.0,3.5,3144.0,2009.0,2887280.0,5824605,,5402837.0,9,1,0,1,0.0,no,no,unknown
-173666909,10 CAPRI TER,,,30504.0,GA,Hall County,"Gainesville, GA",34.269964,-83.84793,SINGLE_FAMILY,3.0,2.0,1806.0,1988.0,2899719.0,5823241,,5314517.0,11,1,0,1,0.0,no,no,unknown
-136319408,203 INVERNESS DR,,Perry City,31069.0,GA,Houston County,"Warner Robins, GA",32.479756,-83.727473,SINGLE_FAMILY,4.0,3.0,2418.0,1988.0,2900469.0,5824597,5384151.0,5314510.0,1,1,0,0,0.0,no,no,unknown
+141938560,9795 CARRICK DR,,,30236.0,GA,Clayton County,"Atlanta-Sandy Springs-Alpharetta, GA",33.487724,-84.336033,SINGLE_FAMILY,4.0,2.0,2076.0,2019.0,2887280.0,5821000,,5314446.0,1,1,0,0,1.0,no,no,unknown
+134515091,1258 BOULDERCREST DR SE,,Atlanta City,30316.0,GA,DeKalb County,"Atlanta-Sandy Springs-Alpharetta, GA",33.719922,-84.330144,SINGLE_FAMILY,2.0,2.0,2006.0,1953.0,2887280.0,5821075,5384169.0,5589642.0,2,1,0,0,0.0,yes,no,unknown
+167097337,762 NICHOLSON CARR RD,,,31012.0,GA,Dodge County,,32.377825,-83.189207,SINGLE_FAMILY,0.0,3.0,2187.0,1996.0,,5821875,,5314705.0,0,0,0,0,,unknown,unknown,unknown
+85415048,2102 ADDERBURY LN SW,,Smyrna City,30082.0,GA,Cobb County,"Atlanta-Sandy Springs-Alpharetta, GA",33.854406,-84.554852,SINGLE_FAMILY,4.0,3.0,2660.0,2000.0,2887280.0,5822520,5384164.0,5314395.0,2,1,0,0,0.0,no,no,unknown
+215175989,7600 ROSWELL RD,# 01-1214,Sandy Springs City,30350.0,GA,Fulton County,"Atlanta-Sandy Springs-Alpharetta, GA",33.96413,-84.37398,CONDO,2.0,1.0,906.0,,2887280.0,5823604,5383921.0,5314543.0,1,0,1,0,0.0,unknown,unknown,unknown
+156568964,1019 W BAY ST,,Savannah City,31415.0,GA,Chatham County,"Savannah, GA",32.086538,-81.112872,OTHER,0.0,0.0,,,2900346.0,5822383,5384032.0,5403226.0,0,0,0,0,,no,no,unknown
+217195434,111 GREEN ST SE,# 519,Gainesville City,30501.0,GA,Hall County,"Gainesville, GA",34.30021,-83.82538,CONDO,2.0,2.0,860.0,,2899719.0,5823241,5383844.0,5403231.0,4,0,1,0,0.0,unknown,unknown,unknown
+142268302,47 E GATE DR,,Tifton City,31794.0,GA,Tift County,"Tifton, GA",31.453767,-83.486963,OTHER,0.0,0.0,,,2900427.0,5822849,5384022.0,5403250.0,1,1,0,0,1.0,no,yes,unknown
+75106004,621 BULLARD RD,,,31513.0,GA,Appling County,,31.838231,-82.371858,SINGLE_FAMILY,0.0,1.0,720.0,1945.0,,5823585,,5314771.0,0,0,0,0,,no,no,unknown
+73755688,4810 SMOKESTONE DR,,,30135.0,GA,Douglas County,"Atlanta-Sandy Springs-Alpharetta, GA",33.684919,-84.733431,SINGLE_FAMILY,5.0,4.0,3262.0,2004.0,2887280.0,5822002,,5314692.0,13,1,1,1,0.0,yes,no,unknown
